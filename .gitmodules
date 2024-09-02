@@ -1,0 +1,9 @@
+[submodule "stlink"]
+	path = stlink
+	url = https://github.com/stlink-org/stlink
+[submodule "stm-cmake"]
+	path = stm-cmake
+	url = https://github.com/stlink-org/stlink
+[submodule "3rd-party/stlink"]
+	path = 3rd-party/stlink
+	url = https://github.com/stlink-org/stlink
