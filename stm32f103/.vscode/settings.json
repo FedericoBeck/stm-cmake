@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "usb_device.h": "c",
+        "usbd_cdc_if.h": "c",
+        "usbd_def.h": "c",
+        "usbd_conf.h": "c",
+        "stdio.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "bits/libc-headerstart.h": "c",
+        "stm32f1xx.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.autoSave": "afterDelay",
+    "files.autoGuessEncoding": true
+}

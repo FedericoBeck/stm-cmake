@@ -1,0 +1,5 @@
+# Ignorar archivos y carpetas de CMake
+/build
+*.ioc
+*.tmp
+*.swp
